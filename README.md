@@ -4,9 +4,9 @@ Here  we'll identify the main factors contributing to employee attrition. Lack o
 Remove Null values
 Remove some useless predictors having no signifiacnce on output variables
 # Correlations
-Department
-Education
-BusinessTravel
+Department 
+Education 
+BusinessTravel 
 MaritalStatus
 # Training Model
 Logistic Regression
